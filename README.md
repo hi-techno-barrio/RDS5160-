@@ -5,4 +5,4 @@ RDS5160
 Test code
 
 
-![Xentrinobots ](https://github.com/hi-techno-barrio/XENTRINOBot-ROS/blob/master/images/Xentrino-4WD-Mechanum.png)
+![RDS5160 ](https://github.com/hi-techno-barrio/RDS5160-/blob/main/img/RDS5160-Test.png)
