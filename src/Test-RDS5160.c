@@ -56,9 +56,9 @@ while (Serial.available()) {
 
   if (readString.length() >0) {
     Serial.println(readString);  //so you can see the captured string 
-    int n = readString.toInt();
-     moveMotorDeg(n,servoA9685);
-    Serial.print("writing Angle: ");
+      int n = readString.toInt();
+      moveMotorDeg(n,servoA9685);
+      Serial.print("writing Angle: ");
       Serial.println(n);
       ch = '\0';
      readString = '\0';
